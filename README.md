@@ -1,0 +1,2 @@
+# VoiceControlledHumanoidRobot
+Voice Controlled Humanoid Robot is a mobile robot whose movement can be controlled by the user, giving specific voice-controlled commands. The voice command is received by the microphone of an android phone and processed by using the Google Voice API. The voice signals are then converted into the text and the app generates a variable against the text, in the form of command this variable is sent to Arduino Node MCU which analyzes the given commands and takes the appropriate actions.
